@@ -20,7 +20,7 @@ Soy egresado de la carrera de Ingeniería Mecatrónica con experiencia en progra
 </br>
 Y alguna más...
 
-## Contacto:
+## Contáctame:
 
 [![MyPublicInbox](https://img.shields.io/badge/LinkedIn-Dennis_Fernández-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/daft98)
 </br>
