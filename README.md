@@ -19,3 +19,9 @@ Soy egresado de la carrera de Ingeniería Mecatrónica con experiencia en progra
 [![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
 </br>
 Y alguna más...
+
+## Contacto:
+
+[![MyPublicInbox](https://img.shields.io/badge/LinkedIn-Dennis_Fernández-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/daft98)
+</br>
+[![Email](https://img.shields.io/badge/email_personal-daft98@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:daft98@hotmail.com)
