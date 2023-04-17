@@ -5,7 +5,7 @@
 
 Soy egresado de la carrera de Ingeniería Mecatrónica con experiencia en programación y diseño de equipos industriales. Me apasiona la tecnología y el desarrollo de la misma. Tengo experiencia en mantenimiento y elaboración de sistemas utilizados en la industria. Soy una persona creativa, dinámica, versátil y con capacidad de trabajo en equipo. 
 
-Soy egresado de la carrera de Ingeniería Mecatrónica con experiencia en programación y diseño de equipos industriales. Me apasiona la tecnología y el desarrollo de la misma. Tengo experiencia en mantenimiento y elaboración de sistemas utilizados en la industria. Soy una persona creativa, dinámica, versátil y con capacidad de trabajo en equipo. 
+Laboré en una empresa azucarera donde desarrollé aptitudes como el trabajo en equipo y solución de problemas, elaboración de instrumentaría justa y necesaria para que la fabrica nunca se detenga. De la misma manera mis conocimientos aportaron de gran manera al entendimiento de los elementos que se encontraban y así mismo mi mente estaba abierta a conocimientos impartidos por mis superiores.
 
 ## Conocimientos:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
