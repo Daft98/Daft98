@@ -16,7 +16,7 @@ Laboré en una empresa azucarera donde desarrollé aptitudes como el trabajo en 
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![AutoCAD](https://img.shields.io/badge/AUTOCAD-red?style=for-the-badge&logo=AutoCAD&logoColor=white&labelColor=101010)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0095D5?style=for-the-badge&logo=VisualStudioCode&logoColor=white&labelColor=101010)]()
 [![Google_Colab](https://img.shields.io/badge/Google_Colab-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
 </br>
 Y alguna más...
