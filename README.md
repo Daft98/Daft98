@@ -28,5 +28,5 @@ Y alguna más...
 </br>
 [![Email](https://img.shields.io/badge/email_personal-daft98@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:daft98@hotmail.com)
 </br>
-[![Web](https://img.shields.io/badge/Web-Daft.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://daft98.github.io/portafolio/index.html)
+[![Web](https://img.shields.io/badge/Web-Daft98.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://daft98.github.io/portafolio/index.html)
 
