@@ -27,3 +27,6 @@ Y alguna más...
 [![MyPublicInbox](https://img.shields.io/badge/LinkedIn-Dennis_Fernández-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/daft98)
 </br>
 [![Email](https://img.shields.io/badge/email_personal-daft98@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:daft98@hotmail.com)
+</br>
+[![Web](https://img.shields.io/badge/Web-Daft.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://daft98.github.io/portafolio/index.html)
+
