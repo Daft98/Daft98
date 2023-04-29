@@ -9,7 +9,7 @@ Laboré en una empresa azucarera donde desarrollé aptitudes como el trabajo en 
 
 ## Conocimientos:
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![Solidworks](https://img.shields.io/badge/SOLIDWORKS-red?style=for-the-badge&logo=solidworks&logoColor=white&labelColor=101010)]()
+[![Solidworks](https://img.shields.io/badge/SOLIDWORKS-red?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 </br>
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
