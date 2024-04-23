@@ -3,7 +3,7 @@
 
 ![https://github.com/Daft98](https://raw.githubusercontent.com/Daft98/Imagenes/main/Banner%20daft%20GitHub.png)
 
-Soy estudiante de la carrera de Ingeniería Mecatrónica con experiencia en programación y diseño de equipos industriales. Me apasiona la tecnología y el desarrollo de la misma. Tengo experiencia en mantenimiento y elaboración de sistemas utilizados en la industria. Soy una persona creativa, dinámica, versátil y con capacidad de trabajo en equipo.
+Soy Ingeniero en Mecatrónica con experiencia en programación y diseño de equipos industriales. Me apasiona la tecnología y el desarrollo de la misma. Tengo experiencia en mantenimiento y elaboración de sistemas utilizados en la industria. Soy una persona creativa, dinámica, versátil y con capacidad de trabajo en equipo.
 
 ## Conocimientos:
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
